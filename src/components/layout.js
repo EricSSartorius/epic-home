@@ -132,6 +132,7 @@ const LayoutWrapper = styled.div`
     .about {
       ul {
         margin-top: 50px;
+        padding-left: 0;
         .work-item {
           margin-bottom: 30px;
           h3 {

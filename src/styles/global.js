@@ -52,6 +52,11 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
   }
 
+  p a,
+  h3 a {
+    text-decoration: underline;
+  }
+
   ul {
     list-style: none;
     margin: 0;
