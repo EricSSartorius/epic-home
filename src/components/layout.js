@@ -5,7 +5,7 @@ import { StaticQuery, graphql } from "gatsby"
 import styled from 'styled-components'
 
 import Header from "./header"
-import Footer from './footer'
+import Footer from './Footer'
 import GlobalStyle from '../styles/global'
 
 import bgImg from '../images/digitalnomad.jpg'
