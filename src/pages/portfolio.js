@@ -2,8 +2,8 @@ import React from 'react'
 import styled from 'styled-components'
 // import { Link, graphql } from 'gatsby'
 // import Img from 'gatsby-image'
-import Layout from '../components/Layout'
-import SEO from "../components/SEO"
+import Layout from '../components/layout'
+import SEO from "../components/seo"
 
 const PortfolioPage = ({ data, location }) => {
   // const projects = data.allMarkdownRemark.edges;
