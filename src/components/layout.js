@@ -46,7 +46,7 @@ const Layout = ({ children, location }) => (
         >
           <html lang="en" />
         </Helmet>
-        <Header pathname={location && location.pathname === "/" ? "light-menu" : ""} />
+        <Header homePage={location && location.pathname === "/"} />
         <main>{children}</main>
         <Footer />
       </LayoutWrapper>
@@ -149,10 +149,10 @@ const LayoutWrapper = styled.div`
           font-size: 26px;
         }
       }
-      @media only screen and (max-width: 768px) {
-        padding: 5rem 1.5rem;
-        margin: 0;
-      }
+    }
+    @media only screen and (max-width: 768px) {
+      padding: 5rem 1.5rem;
+      margin: 0;
     }
   }
 `

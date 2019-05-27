@@ -3,10 +3,10 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import styled from 'styled-components'
 
-const Header = ({ pathname }) => {
+const Header = ({ homePage }) => {
   const [open, setOpen] = useState(false);
   return (
-    <HeaderWrapper className={pathname}>
+    <HeaderWrapper className={homePage && 'light-menu'}>
       <div className="header">
         <div className="header-top">
           <h1>
@@ -83,30 +83,6 @@ const HeaderWrapper = styled.header`
     .wrapper-menu.open {
       transform: rotate(-45deg);  
     }
-    .line-menu {
-      background-color: #fff;
-      border-radius: 1px;
-      width: 100%;
-      height: 6px;
-    }
-    .line-menu.half {
-      width: 50%;
-    }
-    .line-menu.start {
-      transition: transform 330ms cubic-bezier(0.54, -0.81, 0.57, 0.57);
-      transform-origin: right;
-    }
-    .open .line-menu.start {
-      transform: rotate(-90deg) translateX(3px);
-    }
-    .line-menu.end {
-      align-self: flex-end;
-      transition: transform 330ms cubic-bezier(0.54, -0.81, 0.57, 0.57);
-      transform-origin: left;
-    }
-    .open .line-menu.end {
-      transform: rotate(-90deg) translateX(-3px);
-    }
   }
   &.light-menu {
     .header-top h1 a {
@@ -163,18 +139,43 @@ const HeaderWrapper = styled.header`
         }
       }
     }
-    @media only screen and (max-width: 768px) {
-      .header {
+  }
+  @media only screen and (max-width: 768px) {
+    .header {
       .header-top {
-        background: $dark-grey;
+        background: var(--dark-grey);
         h1 a {
-          color: $white;
-          text-shadow: 2px 2px $dark-grey;
+          color: var(--white);
+          text-shadow: 2px 2px var(--dark-grey);
+        }
+        .wrapper-menu {
+          display: flex;
+          .line-menu {
+            background-color: #fff;
+            border-radius: 1px;
+            width: 100%;
+            height: 6px;
+          }
+          .line-menu.half {
+            width: 50%;
+          }
+          .line-menu.start {
+            transition: transform 330ms cubic-bezier(0.54, -0.81, 0.57, 0.57);
+            transform-origin: right;
+          }
+          &.open .line-menu.start {
+            transform: rotate(-90deg) translateX(3px);
+          }
+          .line-menu.end {
+            align-self: flex-end;
+            transition: transform 330ms cubic-bezier(0.54, -0.81, 0.57, 0.57);
+            transform-origin: left;
+          }
+          &.open .line-menu.end {
+            transform: rotate(-90deg) translateX(-3px);
+          }
         }
       } 
-      .wrapper-menu {
-        display: flex;
-      }
     }
     nav {
       overflow-y: hidden;
