@@ -29,7 +29,7 @@ const Layout = ({ children, location }) => (
           meta={[
             { name: 'description', content: 'A homepage for Eric Sartorius.' },
             { name: 'keywords', content: 'homepage, eric sartorius, freelancer, front-end developer, epic' },
-            { nsmr: 'image', content: bgImg},
+            { nsmr: 'image', content: bgImg },
             { property: 'twitter:card', content: 'summary' },
             { property: 'twitter:site', content: '@the_epic_life' },
             { property: 'twitter:title', content: 'Eric Sartorius' },
@@ -121,6 +121,7 @@ const LayoutWrapper = styled.div`
       }
     }
     .project {
+      margin-bottom: 50px;
       .back {
         text-align: center;
         .chevron-back {
