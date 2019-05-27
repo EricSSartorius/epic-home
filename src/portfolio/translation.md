@@ -3,6 +3,7 @@ path: '/translation/'
 title: 'Translation'
 thumbnail: './images/translation.jpg'
 type: 'project'
+order: 5
 ---
 
 ![Translation](./images/translation.jpg)

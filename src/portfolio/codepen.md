@@ -3,6 +3,7 @@ path: '/codepen/'
 title: 'Codepen Art'
 thumbnail: './images/codepen.jpg'
 type: 'project'
+order: 4
 ---
 
 ![Codepen](./images/codepen.jpg)

@@ -3,6 +3,7 @@ path: '/movement/'
 title: 'Movement Coaching'
 thumbnail: './images/movement.jpg'
 type: 'project'
+order: 7
 ---
 
 ![Movement](./images/movement.jpg)

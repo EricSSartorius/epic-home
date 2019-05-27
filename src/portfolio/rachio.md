@@ -3,6 +3,7 @@ path: '/rachio/'
 title: 'Rachio'
 thumbnail: './images/rachio.jpg'
 type: 'project'
+order: 2
 ---
 
 ![Rachio](./images/rachio.jpg)

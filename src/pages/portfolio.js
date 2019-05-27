@@ -54,7 +54,9 @@ const PortfolioWrapper = styled.div`
 
 export const projectQuery = graphql`
   query ProjectQuery {
-    allMarkdownRemark(limit: 10) {
+    allMarkdownRemark(sort: {
+    fields: [frontmatter___order]
+  }) {
       edges {
         node {
           id

@@ -3,6 +3,7 @@ path: '/modeling/'
 title: 'Modeling'
 thumbnail: './images/modeling.jpg'
 type: 'project'
+order: 6
 ---
 
 ![Modeling](./images/modeling.jpg)
