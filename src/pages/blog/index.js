@@ -1,8 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import Layout from '../components/layout'
-import SEO from "../components/seo"
+import Layout from '../../components/layout'
+import SEO from "../../components/seo"
 
 const Blog = ({ location }) => (
   <Layout location={location}>
@@ -13,8 +13,8 @@ const Blog = ({ location }) => (
         <h3>Coming soon</h3>
         <p>Check my Wordpress travel blog for now:</p>
         <h3>
-        <a href="http://www.iamtheepic.com">The Epic Life</a>
-      </h3>
+          <a href="http://www.iamtheepic.com">The Epic Life</a>
+        </h3>
       </div>
     </BlogWrapper>
   </Layout>
