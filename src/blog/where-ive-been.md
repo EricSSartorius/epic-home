@@ -1,9 +1,13 @@
 ---
 path: '/where-ive-been/'
 title: "Where I've Been"
+thumbnail: './images/countryList.jpg'
 type: 'post'
 date: '2016/12/29'
 ---
+
+![Country List](./images/countryList.jpg)
+
 
 Just thought I would throw up a list of countries I have visited. This will be constantly updated as I travel.
 

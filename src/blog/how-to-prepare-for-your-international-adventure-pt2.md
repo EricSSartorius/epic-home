@@ -1,12 +1,15 @@
 ---
 path: '/how-to-prepare-for-your-international-adventure-pt2/'
 title: 'How to Prepare for Your International Adventure (Pt. 2)'
-# thumbnail: './lut.jpg'
+thumbnail: './images/prepare2.jpg'
 type: 'post'
 date: '2017/02/06'
 ---
 
-_Looking for part 1 of this article?_ [How to Prepare for Your International Adventure (Pt. 1)](http://www.iamtheepic.com/prepare-international-adventure/)
+![Prepare for your Adventure 2](./images/prepare1.jpg)
+
+
+_Looking for part 1 of this article?_ [How to Prepare for Your International Adventure (Pt. 1)](/blog/how-to-prepare-for-your-international-adventure-pt1/)
 
 Now that we have half of our preparation done, let's look at what is left to do before takeoff.
 
@@ -52,7 +55,7 @@ I personally have a Google phone with [Project Fi](https://fi.google.com/) which
 
 ### 19\. Pack your bags
 
-Packing can be an art as no two suitcases will be packed the same. For those moving permanently to one country overseas, only pack things you will need right away and slow boat everything else over to save money. If you are going to be backpacking all around Asia, remember function over style and backpack over bulky suitcase. I personally change countries every couple months and find that one suitcase full of necessities works perfectly for me.  If you want to know exactly what I pack, have a look in my suitcase [here](http://www.iamtheepic.com/whats-in-my-suitcase/).
+Packing can be an art as no two suitcases will be packed the same. For those moving permanently to one country overseas, only pack things you will need right away and slow boat everything else over to save money. If you are going to be backpacking all around Asia, remember function over style and backpack over bulky suitcase. I personally change countries every couple months and find that one suitcase full of necessities works perfectly for me.  If you want to know exactly what I pack, have a look in my suitcase [here](/blog/whats-in-my-suitcase/).
 
 ### 20\. Say goodbye
 

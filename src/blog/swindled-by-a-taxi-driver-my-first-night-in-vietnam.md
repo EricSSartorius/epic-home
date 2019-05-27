@@ -1,16 +1,19 @@
 ---
 path: '/swindled-by-a-taxi-driver-my-first-night-in-vietnam/'
 title: 'Swindled by a Taxi Driver My First Night in Vietnam'
-# thumbnail: './lut.jpg'
+thumbnail: './images/taxi.jpg'
 type: 'post'
 date: '2017/03/18'
 ---
+
+![taxi](./images/taxi.jpg)
+
 
 People are most vulnerable when first arriving at a country because everything is new and confusing. Taxi drivers know this and unfortunately, in some countries, they love to take advantage of it. As a veteran traveler, it is a bit embarrassing to admit that I let myself get swindled but I think it is best to share my story so that others do not make the same mistake that I did.
 
 ## Before Arrival
 
-In an earlier post about [preparing for international travel](http://www.iamtheepic.com/prepare-international-adventure/), I mentioned that research is very important. I followed my advice and learned a few things about my taxi ride before blindly hopping into a taxi.
+In an earlier post about [preparing for international travel](/blog/how-to-prepare-for-your-international-adventure-pt1/), I mentioned that research is very important. I followed my advice and learned a few things about my taxi ride before blindly hopping into a taxi.
 
 1.  $1 USD is about 22,000 dong
 2.  A ride to my accommodation would cost around 150,000 dong (about $7 USD)
@@ -51,7 +54,7 @@ So my decision was to pretend at this point that I thought it was a mistake on h
 
 ## After the toll gate
 
-![](http://www.iamtheepic.com/wp-content/uploads/2017/03/KakaoTalk_Photo_2017-03-18-23-04-34-225x300.jpeg)I am now in high alert mode. First thing I do is take a picture of the driver without him knowing. Who knows if it will come in handy or not later. Next thing I do is turn on Google Maps to make sure he is going in the right direction.
+![Taxi Driver](./images/taxi-driver.jpeg)I am now in high alert mode. First thing I do is take a picture of the driver without him knowing. Who knows if it will come in handy or not later. Next thing I do is turn on Google Maps to make sure he is going in the right direction.
 
 _*Pro traveler tip: Even if you don't have an internet connection GPS can still track your location so you can use it like a compass to find your way offline_
 
@@ -59,7 +62,7 @@ _*Pro traveler tip: Even if you don't have an internet connection GPS can still 
 
 I then thought it might be a good idea to look back at my money and make sure it was all there. At the airport, I paid $25 USD for a visa, was given back a bit of change in dong and the rest in USD. I then exchanged $40 within the airport so that I would have a small amount for the next few days. What I should have done here is properly count my money and familiarize myself with the dong so I knew exactly how much I had. Since I didn't do that, I was a bit confused when counting my money in the taxi.
 
-![](http://www.iamtheepic.com/wp-content/uploads/2017/03/dong-300x226.jpg)First off, the 10,000 and 100,000 dong notes look almost identical in the dark (why do all notes have the same guy's face?!). Also, the exchange rate wasn't clear in my head so counting the bills I had seemed useless. I figured that I didn't have that much anyways and I was pretty sure I already caught him so called it quits on a detailed money count.
+![Dong](./images/taxi-dong.jpg)First off, the 10,000 and 100,000 dong notes look almost identical in the dark (why do all notes have the same guy's face?!). Also, the exchange rate wasn't clear in my head so counting the bills I had seemed useless. I figured that I didn't have that much anyways and I was pretty sure I already caught him so called it quits on a detailed money count.
 
 ## Exiting the taxi
 
@@ -77,7 +80,7 @@ Anyways, I said "450?! It should only be 150, why is it so much?!" He said yes, 
 
 Right after he took my money, the driver got out of the taxi and grabbed my bag out of the trunk and started wheeling it away. At this point, I am insanely pissed and defensive so I thought he might try something with my bag if I don't get to him soon enough. because of this, I didn't have enough time to get out my camera and snap his plate so I tried to memorize it as I walked by it. (It turns out that he was just trying to help me cross the street with my suitcase because traffic is insane.)
 
-![](http://www.iamtheepic.com/wp-content/uploads/2017/03/plate-300x232.jpg)I was really tempted to just beat this guy's ass. I had no idea where I was though and didn't trust anyone at this point so figured that my bags might get stolen if I set them down to start something. I said screw it and just let the driver go back to his taxi. I then took a picture of the taxi from across the street and managed to get a blurry plate number out of it.
+![Taxi plate](./images/taxi-plate.jpg)I was really tempted to just beat this guy's ass. I had no idea where I was though and didn't trust anyone at this point so figured that my bags might get stolen if I set them down to start something. I said screw it and just let the driver go back to his taxi. I then took a picture of the taxi from across the street and managed to get a blurry plate number out of it.
 
 ## Arriving at my accommodation
 

@@ -1,6 +1,7 @@
 import React from "react"
 import { Link, graphql } from 'gatsby'
 import Layout from '../components/layout'
+import styled from 'styled-components'
 
 const PostTemplate = ({ location, data }) => {
   const post = data.markdownRemark
@@ -10,7 +11,7 @@ const PostTemplate = ({ location, data }) => {
       <div className="project">
 
         <h1 className="title">{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        <Post dangerouslySetInnerHTML={{ __html: post.html }} />
         <div className="back">
           <Link to="/blog/" className="chevron-back">
             <svg width="23" height="36" viewBox="0 0 23 36" version="1.1">
@@ -36,6 +37,12 @@ const PostTemplate = ({ location, data }) => {
 }
 
 export default PostTemplate
+
+const Post = styled.div`
+  .gatsby-resp-image-wrapper {
+    max-width: 800px;
+  }
+`
 
 export const query = graphql`
   query($slug: String!) {

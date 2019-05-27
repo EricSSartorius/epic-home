@@ -1,10 +1,13 @@
 ---
 path: '/my-travel-history/'
 title: 'My Travel History'
-# thumbnail: './lut.jpg'
+thumbnail: './images/travelhistory.jpg'
 type: 'post'
 date: '2016/12/29'
 ---
+
+![Travel History](./images/travelhistory.jpg)
+
 
 Everyone has reasons for lifestyle choices which can usually be brought to light upon digging into the past so I figured there must be a reason for my nomadic way of life.  With that said, I decided to reflect on my travel history and how it brought me (literally) where I am today.
 

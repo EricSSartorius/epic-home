@@ -1,10 +1,13 @@
 ---
 path: '/making-time-for-exercise-while-on-the-road/'
 title: 'Making Time for Exercise While on the Road'
-# thumbnail: './lut.jpg'
+thumbnail: './images/exercise.jpg'
 type: 'post'
 date: '2017/03/08'
 ---
+
+![exercise](./images/exercise.jpg)
+
 
 When on holiday, daily exercise routines and goals have a tendency to go right out the window but they don't need to. I used to be terrible at making myself exercise when I travel and tell myself that I would get back into the swing of things full force once I get home. However, not only would I avoid exercise during my time on vacation, but I would also eat like a pig and then have a lot of training to catch up with after getting home.
 
@@ -40,7 +43,7 @@ If you packed so many clothes that you can't even add a resistance band to your 
 
 ## How I train
 
-The order of my workouts, intensity, time and the exact movements I do are always changing but the equipment I travel with is consistent ([See what is in my suitcase](http://www.iamtheepic.com/whats-in-my-suitcase/)). Below is an example of what I might do if I don't have gym access and want to get a full body workout in. (In all honesty, even if I had gym access I prefer working out with body weight)
+The order of my workouts, intensity, time and the exact movements I do are always changing but the equipment I travel with is consistent ([See what is in my suitcase](/blog/whats-in-my-suitcase/)). Below is an example of what I might do if I don't have gym access and want to get a full body workout in. (In all honesty, even if I had gym access I prefer working out with body weight)
 
 ##### Jump rope
 

@@ -1,14 +1,17 @@
 ---
 path: '/how-to-prepare-for-your-international-adventure-pt1/'
 title: 'How to Prepare for Your International Adventure (Pt. 1)'
-# thumbnail: './lut.jpg'
+thumbnail: './images/prepare1.jpg'
 type: 'post'
 date: '2017/02/05'
 ---
 
+![Prepare for your Adventure 1](./images/prepare1.jpg)
+
+
 So you have made the decision to take a leap and travel the world, great! So now that it's time to prepare to board that first flight, what comes first? It can be really stressful planning for live overseas so I thought I would put together a to-do list that should help settle some nerves before takeoff.
 
-_Looking for the second half of the to-do list?_ [How to Prepare for Your International Adventure (Pt. 2)](http://www.iamtheepic.com/prepare-international-adventure-pt-2/)
+_Looking for the second half of the to-do list?_ [How to Prepare for Your International Adventure (Pt. 2)](/blog/how-to-prepare-for-your-international-adventure-pt2/)
 
 ## TO DO (Pt. 1):
 
@@ -32,7 +35,7 @@ I know people that have up and left their jobs and used their savings to travel 
 
 ### 4\. Check your finances
 
-If you have student loans, car payments, or child support to pay, it might not be the best time to quit your job and travel the world for a year. This ties in a bit with the job assessment, but make sure that you can financially support your travel decisions before you find yourself homeless in a foreign country. When people are on vacation, they tend to spend more than when at home so be careful when budgeting for your trip. With that said, if you are a smart traveler it can still be possible to [save money by traveling the world](http://www.iamtheepic.com/how-i-save-money-by-traveling-the-world/).
+If you have student loans, car payments, or child support to pay, it might not be the best time to quit your job and travel the world for a year. This ties in a bit with the job assessment, but make sure that you can financially support your travel decisions before you find yourself homeless in a foreign country. When people are on vacation, they tend to spend more than when at home so be careful when budgeting for your trip. With that said, if you are a smart traveler it can still be possible to [save money by traveling the world](/blog/how-i-save-money-by-traveling-the-world/).
 
 ### 5\. Don't forget about taxes
 
@@ -74,4 +77,4 @@ Before I buy a plane ticket to a new destination I always make sure to check the
 
 [WikiTravel](http://wikitravel.org/en/Main_Page) and [Lonely Planet](https://www.lonelyplanet.com/) are usually my go-to sites for general country information.  Also, make sure to research the cost of living in countries you plan on traveling using sites such as [Numbeo](https://www.numbeo.com/cost-of-living/).
 
-[Continue to part 2 >](http://www.iamtheepic.com/prepare-international-adventure-pt-2/)
+[Continue to part 2 >](/blog/how-to-prepare-for-your-international-adventure-pt2/)

@@ -1,10 +1,13 @@
 ---
 path: '/hello-world/'
 title: 'Hello World!'
-# thumbnail: './lut.jpg'
+thumbnail: './images/helloworld.jpg'
 type: 'post'
 date: '2016/11/28'
 ---
+
+![Hello World](./images/helloworld.jpg)
+
 
 This is my first ever blog and first ever blog post!
 

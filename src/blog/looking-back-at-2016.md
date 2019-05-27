@@ -1,10 +1,13 @@
 ---
 path: '/looking-back-at-2016/'
 title: 'Looking Back at 2016'
-# thumbnail: './lut.jpg'
+thumbnail: './images/2016.jpg'
 type: 'post'
 date: '2017/01/01'
 ---
+
+![2016](./images/2016.jpg)
+
 
 Happy New Year!
 
@@ -30,4 +33,4 @@ Since I had been so used to traveling the world and was going stir crazy in Mich
 
 Time to take on 2017!
 
-<pre>Photo by: [Montaegue](https://www.instagram.com/montaegue/)</pre>
+<sub>Photo by: [Montaegue](https://www.instagram.com/montaegue/)</sub>

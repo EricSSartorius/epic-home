@@ -1,10 +1,13 @@
 ---
 path: '/whats-in-my-suitcase/'
 title: "What's in My Suitcase"
-# thumbnail: './lut.jpg'
+thumbnail: './images/suitcase.jpg'
 type: 'post'
 date: '2016/12/31'
 ---
+
+![suitcase](./images/suitcase.jpg)
+
 
 Since I am always on the move, for the most part, everything I own is condensed down into one suitcase (20kg) and one backpack(10kg). Let's take a look at everything I own/travel with at the moment. (I also travel with disposable items such as shampoo, deodorant etc. but did not include them on the list because they are always changing)
 

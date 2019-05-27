@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 
 import Layout from '../components/layout'
 import SEO from "../components/seo"
@@ -17,11 +18,13 @@ const BlogPage = ({ data, location }) => {
             <Link
               key={post.node.id}
               to={`blog${post.node.frontmatter.path}`}>
-              {/* <Img fluid={post.node.frontmatter.thumbnail.childImageSharp.fluid} className="project-image" alt={`${post.node.frontmatter.title} screenshot`} /> */}
+              <div className="img-wrapper">
+                <Img fluid={post.node.frontmatter.thumbnail.childImageSharp.fluid} className="project-image" alt={`${post.node.frontmatter.title} screenshot`} />
+              </div>
               <h2 className="" key={post.node.frontmatter.title}>
                 {post.node.frontmatter.title}
               </h2>
-              <p className="date" css="margin-bottom: 50px">{post.node.frontmatter.date}</p>
+              <p className="date" css="margin-bottom: 100px">{post.node.frontmatter.date}</p>
             </Link >
           )
           )}
@@ -43,6 +46,10 @@ const BlogWrapper = styled.section`
   }
   h2 {
     margin-bottom: 5px;
+  }
+  .img-wrapper {
+    max-width: 800px;
+    margin: auto;
   }
   .date {
     font-size: 14px;
@@ -69,13 +76,13 @@ export const postQuery = graphql`
             title
             date
             type
-            # thumbnail {
-            #   childImageSharp {
-            #     fluid(maxWidth: 600) {
-            #       ...GatsbyImageSharpFluid_withWebp_noBase64
-            #     }
-            #   }
-            # }
+            thumbnail {
+              childImageSharp {
+                fluid(maxWidth: 800) {
+                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                }
+              }
+            }
           }
         }
       }

@@ -1,10 +1,13 @@
 ---
 path: '/how-i-save-money-by-traveling-the-world/'
 title: 'How I Save Money by Traveling the World'
-# thumbnail: './lut.jpg'
+thumbnail: './images/travelAndSave.jpg'
 type: 'post'
 date: '2017/01/25'
 ---
+
+![Travel and Save](./images/travelAndSave.jpg)
+
 
 Yes, you read the title correctly, I save money by traveling the world. In fact, I cut spending almost **in half** the past 6 months. Now I know that this might not apply to everyone but I want to share how it applied to myself and how you can as well. Obviously where you are traveling to and what kind of accommodations you are staying at will impact how much you spend but with the right planning, it is easier than you think to travel and save. The past 6 months I have traveled to countries with a rather large range of prices so I will list average prices I spent at each location and compare it to the price of staying at home.
 
@@ -38,7 +41,7 @@ Finding programs with host families, couch surfing or even just having really go
 
 As you can see, I have managed to do a lot of traveling and only spent **$800** for housing between June 21 and Jan 1\. I also want to make note that all of the places I have stayed at were furnished and very livable, not infested with rats or located in the slums. Compared to **$3,600 for 6 months** ($600/mo), that I would have been spending if I was still back in the US, that is a huge difference just in rent alone.
 
-[caption id="attachment_664" align="alignnone" width="840"]![](http://www.iamtheepic.com/wp-content/uploads/2017/01/IMG_20161219_200355-1024x766.jpg) Marina Bay Sands hotel in Singapore[/caption]
+![Marina Bay Sands hotel](./images/tas-singapore.jpg) <sub>Marina Bay Sands hotel in Singapore</sub>
 
 ## Transportation
 
@@ -52,7 +55,7 @@ Now, I will admit I have not owned a car in the US for about 10 years so my esti
 
 Airplane tickets are probably the most expensive chunks so I will look back at how much I spent for flights the past 6 months. There is a certain way to play the flight game right so you get lots of free flights and upgrades but since I often fly random budget airlines and I am terrible at keeping track of mileage, I haven't gotten any free flights yet. When I first left to Japan from the US, I bought a 3 month round trip ticket thinking that I would go back home in September. The total for that ticket was _$1265. _I never ended up taking that return flight and I learned from my mistake, from then on I bought only one-way tickets.
 
-##### My airplane breakdown:
+#### My airplane breakdown:
 
 **Japan -> South Korea:** $125
 
@@ -64,7 +67,7 @@ Airplane tickets are probably the most expensive chunks so I will look back at h
 
 So my total for 6 months of flying is **$1985\.** But we also have to add in local public transportation fees. First, I have to say that public transportation in Japan is insanely expensive. The train ride from Tokyo to Osaka alone cost me $120 dollars. I could have been more conservative with traveling at the time but what is the fun in that? Here is an estimated breakdown of how much I spent on trains/buses/taxis per country:
 
-##### My public transport breakdown:
+#### My public transport breakdown:
 
 **Kyoto, Osaka, Kobe, Nara, Shiga, and Tokyo Japan:**  $550 for 2 months
 
@@ -78,17 +81,17 @@ So my total for 6 months of flying is **$1985\.** But we also have to add in loc
 
 So adding all of my costs together with flights, after 6 months I spent a total of **$2,905\.** A little under half of what I would have paid for 6 months in the US.
 
-[caption id="attachment_665" align="alignnone" width="840"]![](http://www.iamtheepic.com/wp-content/uploads/2017/01/IMG_20170112_203316-1024x768.jpg) Driving in style[/caption]
+![Limo](./images/tas-limo.jpg) <sub>Driving in style</sub>
 
 ## Food
 
 The last major life expense that I will cover is food. This category is difficult to calculate because everyone has different eating habits and the price of ingredients you might be used to varies vastly country to country. This is also a category where I don't really save much money compared to the US. In the US, I eat at home most meals but eat out a few times a week. When I travel, however, my eating habits really depend on the country I am in.
 
-So in the US, when I ate out I would usually go to sandwich places at times when I was craving extra calories (I try to eat clean when cooking at home) and the total was usually around _$10_. I went shopping 2 or 3 times a week and usually spent around _$30_ dollars when I went so let's say my weekly grocery average was _$75_. That means on average I spent _$400_ a month on food_. _So after 6 months, my food total living in the US would be about **$2,400**.
+So in the US, when I ate out I would usually go to sandwich places at times when I was craving extra calories (I try to eat clean when cooking at home) and the total was usually around _$10_. I went shopping 2 or 3 times a week and usually spent around _$30_ dollars when I went so let's say my weekly grocery average was _$75_. That means on average I spent _$400_ a month on food. So after 6 months, my food total living in the US would be about **$2,400**.
 
 Over the past 6 months overseas, however, my eating habits have been all over the place. In Asia, I was usually able to eat out for around **$6 or $7** in Japan and Korea and for **$4 or $5** in Taiwan and Singapore. Because of this, I ate out almost every meal. However, The average price of restaurants that I have seen in Australia is closer to **$15** (with the exception of Domino's and their $5 pizzas) so I have almost exclusively been cooking at home.
 
-##### My food breakdown:
+#### My food breakdown:
 
 **Japan:**  $1,120 for 2 months
 
@@ -102,27 +105,28 @@ Over the past 6 months overseas, however, my eating habits have been all over th
 
 So the total I spent on food while traveling the past 6 months is **$3,540.** As you can see, this is almost $1,000 more than I would have spent on food if I had stayed in the US. Could I have spent much less? Most definitely. And eating out every meal would not have been a problem in many South East Asian countries where a meal could be as little as **one or two dollars**. However, laziness got the best of me in some of the more expensive countries to eat out at.
 
-[caption id="attachment_663" align="alignnone" width="840"]![](http://www.iamtheepic.com/wp-content/uploads/2017/01/IMG_20161204_221355-1024x766.jpg) Night market in Taipei, Taiwan[/caption]
+![Night market in Taipei](./images/tas-nightmarket.jpg)
+<sub>Night market in Taipei, Taiwan</sub>
 
 ## Conclusion
 
 Now that the 3 main life expenses have been calculated for 6 months, let's take one final look at the side-by-side totals.
 
-##### 6 Living at home:
+#### 6 Living at home:
 
 *   **Accommodations: $3,600**
 *   **Transportation: $6,380**
 *   **Food: $2,400**
 
-##### **Total: <u>$12,380</u>**
+### **Total: <u>$12,380</u>**
 
-##### 6 Months living overseas:
+#### 6 Months living overseas:
 
 *   **Accommodations: $800**
 *   **Transportation: $2,905**
 *   **Food: $3,540**
 
-##### **Total: <u>$7,245</u>**
+### **Total: <u>$7,245</u>**
 
 So even though I was not able to save money on food overseas (but could have), I saved a ton on accommodations and transportation. Overall, I spent close to half overseas the past 6 months compared to how much I would have spent living the past 6 months working a 9-5 in the US.
 

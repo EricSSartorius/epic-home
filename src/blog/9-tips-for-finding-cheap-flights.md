@@ -1,10 +1,13 @@
 ---
 path: '/9-tips-for-finding-cheap-flights/'
 title: '9 Tips for Finding Cheap Flights'
-# thumbnail: './lut.jpg'
+thumbnail: './images/flights.jpg'
 type: 'post'
 date: '2017/02/20'
 ---
+
+![Flights](./images/flights.jpg)
+
 
 There are many factors that can cause the price of airplane tickets to fluctuate and knowing how to find cheap flights can get confusing. With just a few tweaks in your search, however, you can start saving money on your next flight. Between years of researching, reading articles, and personal experience, I have come up with 9 search tips that will be sure to help lower flight costs.
 
@@ -57,6 +60,6 @@ After some searching, I noticed that most flights from Taiwan to Australia were 
 
 ## 9\. Hire someone to search for you
 
-All of these tips are things that I do regularly when searching for airplane tickets. If it sounds like a lot of work and it isn't for you, you could always just get someone else to search for you. As I mentioned in my last article about [preparing for an international adventure](http://www.iamtheepic.com/prepare-international-adventure/), for $50 USD, [Flight Fox](https://flightfox.com/) will send out their experts to find the cheapest ticket they possibly can for you. And if they can't find a flight cheaper than the one you found in a search, you don't have to pay for the service. I wouldn't recommend this service for cheap flights/short distances but if you are searching for rather expensive flights, $50 isn't much to save yourself the hassle of searching and most likely a couple hundred dollars.
+All of these tips are things that I do regularly when searching for airplane tickets. If it sounds like a lot of work and it isn't for you, you could always just get someone else to search for you. As I mentioned in my last article about [preparing for an international adventure](/blog/how-to-prepare-for-your-international-adventure-pt1/), for $50 USD, [Flight Fox](https://flightfox.com/) will send out their experts to find the cheapest ticket they possibly can for you. And if they can't find a flight cheaper than the one you found in a search, you don't have to pay for the service. I wouldn't recommend this service for cheap flights/short distances but if you are searching for rather expensive flights, $50 isn't much to save yourself the hassle of searching and most likely a couple hundred dollars.
 
 All the above are methods I use regularly when searching for flights. I hope they help you with searching as much as they have helped me!
