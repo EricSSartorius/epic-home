@@ -20,6 +20,9 @@ exports.createPages = ({ graphql, actions }) => {
       allMarkdownRemark {
         edges {
           node {
+            frontmatter {
+              type
+            }
             fields {
               slug
             }
@@ -30,8 +33,8 @@ exports.createPages = ({ graphql, actions }) => {
   `).then(result => {
     result.data.allMarkdownRemark.edges.forEach(({ node }) => {
       createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/project.js`),
+        path: `${node.frontmatter.type === 'post' ? 'blog' : 'portfolio'}${node.fields.slug}`,
+        component: path.resolve(node.frontmatter.type === 'post' ? `./src/templates/post.js` : `./src/templates/project.js`),
         context: {
           slug: node.fields.slug,
         },
