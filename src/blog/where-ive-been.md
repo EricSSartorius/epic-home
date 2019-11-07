@@ -1,46 +1,45 @@
 ---
-path: '/where-ive-been/'
+path: "/where-ive-been/"
 title: "Where I've Been"
-thumbnail: './images/countryList.jpg'
-type: 'post'
-date: '2016/12/29'
+thumbnail: "./images/countryList.jpg"
+type: "post"
+date: "2016/12/29"
 ---
 
 ![Country List](./images/countryList.jpg)
 
-
 Just thought I would throw up a list of countries I have visited. This will be constantly updated as I travel.
 
 1. USA
-    1. Ohio
-    2. Connecticut
-    3. Michigan
-    4. Indiana
-    5. Illinois
-    6. Maine
-    7. Delaware
-    8. Rhode Island
-    9. Vermont
-    10. Massachusetts
-    11. New York
-    12. New Hampshire
-    13. Kentucky
-    14. Tennessee
-    15. North Carolina
-    16. South Carolina
-    17. Georgia
-    18. Florida
-    19. Alabama
-    20. Pennsylvania
-    21. Iowa
-    22. New Jersey
-    23. Virginia
-    24. Colorado
-    25. Arizona
-    26. Utah
-    27. South Dakota
-    28. Wyoming
-    29. California
+   1. Ohio
+   2. Connecticut
+   3. Michigan
+   4. Indiana
+   5. Illinois
+   6. Maine
+   7. Delaware
+   8. Rhode Island
+   9. Vermont
+   10. Massachusetts
+   11. New York
+   12. New Hampshire
+   13. Kentucky
+   14. Tennessee
+   15. North Carolina
+   16. South Carolina
+   17. Georgia
+   18. Florida
+   19. Alabama
+   20. Pennsylvania
+   21. Iowa
+   22. New Jersey
+   23. Virginia
+   24. Colorado
+   25. Arizona
+   26. Utah
+   27. South Dakota
+   28. Wyoming
+   29. California
 2. Canada
 3. Japan
 4. Thailand
@@ -76,3 +75,7 @@ Just thought I would throw up a list of countries I have visited. This will be c
 34. Colombia
 35. Norway
 36. Denmark
+37. Czech Republic
+38. Austria
+39. Slovakia
+40. Hungary
