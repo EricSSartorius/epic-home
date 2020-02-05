@@ -40,6 +40,7 @@ Just thought I would throw up a list of countries I have visited. This will be c
    27. South Dakota
    28. Wyoming
    29. California
+   30. Nevada
 2. Canada
 3. Japan
 4. Thailand
