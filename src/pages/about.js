@@ -30,7 +30,13 @@ const AboutPage = ({ location }) => (
             of my recent projects are done in React. My specialty is making
             blazing fast e-commerce static sites with Gatsby and Shopify.
             Although I mostly do full-stack programming, I also have experience
-            creating mockups in Sketch and Figma.
+            creating mockups in Sketch and Figma. If you would like to learn
+            more about Pure Func, the web consulting business I own, you can
+            check it out{" "}
+            <a href="https://purefunc.dev" target="_blank">
+              here
+            </a>
+            .
           </p>
         </li>
         <li className="work-item">

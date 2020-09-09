@@ -3,7 +3,7 @@ path: "/lut/"
 title: "Level Up Tutorials"
 thumbnail: "./images/lut.jpg"
 type: "project"
-order: 1
+order: 3
 ---
 
 ![Level Up Tutorails](./images/lut.jpg)

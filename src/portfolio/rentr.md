@@ -3,7 +3,7 @@ path: "/rentr/"
 title: "Rentr"
 thumbnail: "./images/rentr.jpg"
 type: "project"
-order: 3
+order: 8
 ---
 
 ![Rentr](./images/rentr.jpg)
